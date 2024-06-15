@@ -1,0 +1,17 @@
+.links1:hover i{
+    rotate : 90deg;
+}
+
+.main-para::selection {
+    background-color: 	#e7223a;
+    color:white;
+}
+
+.main-para b::selection{
+    color:white;
+    background-color: #e7223a;
+}
+
+.foot-links:hover{
+    cursor:pointer
+}
